@@ -1,0 +1,82 @@
+.train_neural_title{
+    font-size: 32px;
+    line-height: 39px;
+    letter-spacing: 0.04em;
+    color: #333333;
+    font-family: SF-Bold;
+    margin-bottom: 16px;
+}
+.train_neural_description{
+    font-size: 16px;
+    line-height: 24px;
+    color: rgba(51, 51, 51, 0.7);
+    margin-bottom: 32px;
+}
+.enter_links_container{
+    border: 0.5px solid rgba(0, 0, 0, 0.12);
+    box-sizing: border-box;
+    border-radius: 12px;
+    height: 144px;
+    width: 100%;
+}
+.enter_links{
+    margin : 16px;
+    height: 112px;
+    width: calc(100% - 32px);
+}
+.enter_links::placeholder{
+    font-size: 14px;
+    line-height: 20px;
+    color: rgba(26, 24, 36, 0.5);
+}
+.train_button{
+    background: #46C4FF;
+    box-shadow: 0px 4px 15px rgba(93, 190, 255, 0.5);
+    border-radius: 12px;
+    width: 254px;
+    margin-top: 32px;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 14px;
+    line-height: 17px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    font-family: SF-SemiBold;
+}
+.loader_train_container{
+    position: absolute;
+    background: rgba(255, 255, 255, 0.8);
+    box-shadow: 0px 16px 44px rgba(0, 0, 0, 0.1);
+    border-radius: 32px;
+    height: calc(100vh - 130px);
+    top: 0px;
+    width: 100%;
+}
+
+.icon_success{
+    margin-bottom: 24px;
+}
+.btn_success{
+    margin-top: 48px;
+    margin-bottom: 24px;
+}
+.text_success{
+    font-size: 14px;
+    line-height: 17px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #46C4FF;
+}
+.loader_text{
+    font-size: 21px;
+    line-height: 20px;
+    text-align: center;
+    color: #113946;
+}
+.train_error_text{
+    font-size: 16px;
+    line-height: 24px;
+    color: #FF6262;
+    margin: 44px 0px 0px 16px;
+}

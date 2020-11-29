@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c6eb2384.chunk.css",
+    "main.js": "/static/js/main.ac896209.chunk.js",
+    "main.js.map": "/static/js/main.ac896209.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8d9901a5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8d9901a5.js.map",
+    "static/js/2.2a4d8de9.chunk.js": "/static/js/2.2a4d8de9.chunk.js",
+    "static/js/2.2a4d8de9.chunk.js.map": "/static/js/2.2a4d8de9.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.1c1bbcc942d0461ca62da3e2e9695c4d.js": "/precache-manifest.1c1bbcc942d0461ca62da3e2e9695c4d.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.c6eb2384.chunk.css.map": "/static/css/main.c6eb2384.chunk.css.map",
+    "static/js/2.2a4d8de9.chunk.js.LICENSE": "/static/js/2.2a4d8de9.chunk.js.LICENSE",
+    "static/media/style.css": "/static/media/Montserrat-SemiBold.c641dbee.ttf",
+    "static/media/card1.svg": "/static/media/card1.b37bc83c.svg",
+    "static/media/card2.svg": "/static/media/card2.63fca943.svg",
+    "static/media/card3.svg": "/static/media/card3.d1c2e367.svg",
+    "static/media/help_circle.svg": "/static/media/help_circle.151b881a.svg",
+    "static/media/mountainheads.svg": "/static/media/mountainheads.b75a00c3.svg",
+    "static/media/pickture.svg": "/static/media/pickture.311ed54b.svg",
+    "static/media/sad.svg": "/static/media/sad.5e0f1005.svg",
+    "static/media/stats.svg": "/static/media/stats.0c3c6dd3.svg",
+    "static/media/success_icon.svg": "/static/media/success_icon.edb48651.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d9901a5.js",
+    "static/js/2.2a4d8de9.chunk.js",
+    "static/css/main.c6eb2384.chunk.css",
+    "static/js/main.ac896209.chunk.js"
+  ]
+}
