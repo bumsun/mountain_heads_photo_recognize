@@ -36,7 +36,7 @@ weights_groupsD = weights.Weights().getWeightsGroupsD()
 
 os.environ["GOOGLE_APPLICATION_CREDENTIALS"]="key.json"
 
-session = vk.Session(access_token='b39ce98919fd994eca36b6034d34380a5b977f4a3ee69c0352a737ae3de6b9f740a8dee15f6209e5f3d53')
+session = vk.Session(access_token='')
 vk_api = vk.API(session, v='5.126', lang='ru', timeout=10)
 
 
